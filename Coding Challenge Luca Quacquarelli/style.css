@@ -1,0 +1,72 @@
+body{
+  background-image: url("sfondo.jpg");
+  background-size: 100%;
+}
+
+.container{
+  width: 50%;
+  margin: auto;
+  margin-top: 10%;
+  padding: 50px;
+  background-color:rgba(0,0,0,0.6);
+  border-radius: 15px;
+  font-family: sans-serif;
+}
+
+header > img{
+  width: 200px;
+  margin-left: 34%;
+}
+
+header strong{
+  color: #00FF00;
+  margin-left: 15%;
+  font-size: 30px;
+}
+
+nav{
+  height: 30px;
+  background-color: #00FF00;
+}
+
+button:first-child{
+  margin-left: 26%;
+  margin-top: 1%;
+}
+main{
+  color: white;
+}
+
+section.vehicles{
+  padding-top: 20px;
+}
+
+strong{
+  font-size: 20px;
+}
+
+
+div.address{
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+#batterylevel1{
+  width: 40%;
+  height: 20px;
+  background: orange;
+  border-radius: 5px;
+}
+
+#batterylevel2{
+  width: 60%;
+  height: 20px;
+  background: #00FF00;
+  border-radius: 5px;
+}
+#batterylevel3{
+  width: 20%;
+  height: 20px;
+  background: #CD3333;
+  border-radius: 5px;
+}
